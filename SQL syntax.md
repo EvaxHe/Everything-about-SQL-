@@ -6,6 +6,7 @@ Interval: year, month. day, week. hour. minute, ect.
 
 #### DATEADD 
 >DATEADD(Interval, number, DATE) 
+>DATE >= 'DATE' - INTERVAL 90 day
 
 
 number could be negative if wants to substract 
