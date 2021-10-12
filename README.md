@@ -1,1 +1,1 @@
-# Everything-about-SQL-
+# SQL-all-you-need to know
