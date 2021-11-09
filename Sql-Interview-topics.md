@@ -21,3 +21,7 @@
 2. Dynamic SQL generation
 3. Query optimization
 4. Materialized views
+
+--------------------
+
+1. Cumulative sum 
